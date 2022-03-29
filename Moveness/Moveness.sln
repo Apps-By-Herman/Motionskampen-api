@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moveness", "Moveness.csproj", "{D79ED771-30E8-4E88-9B8F-1A70081F937C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79ED771-30E8-4E88-9B8F-1A70081F937C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79ED771-30E8-4E88-9B8F-1A70081F937C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79ED771-30E8-4E88-9B8F-1A70081F937C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79ED771-30E8-4E88-9B8F-1A70081F937C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD350F53-E827-42A7-A45F-F912FA854509}
+	EndGlobalSection
+EndGlobal
